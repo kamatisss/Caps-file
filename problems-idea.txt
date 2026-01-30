@@ -1,0 +1,26 @@
+
+Problem	IT Solution	Example Application
+1. Lost-and-found chaos in schools/offices	RFID-based item tracking system	Students tag belongings; system alerts when items are misplaced
+
+2. Difficulty in monitoring student attendance	Biometric or QR-based attendance system	Fingerprint or QR scan at classroom entry
+
+3. Farmers struggling with unpredictable weather	IoT-enabled smart farming system
+	Sensors track soil moisture, weather forecasts, and suggest irrigation
+
+4. Long queues in cafeterias	
+Mobile pre-order and cashless payment app	
+Students/employees order food ahead and pick up directly
+
+5. Difficulty in managing barangay records	Cloud-based barangay management system	Residents’ records stored digitally for faster services
+
+6. Confusion in hospital queueing	Digital queue management with SMS alerts	Patients get notified when it’s their turn
+
+7. Difficulty in tracking borrowed library books	Smart library system with RFID tags	Auto-detect borrowed/returned books
+
+8. Garbage collection inefficiency	GPS-enabled waste management system	Tracks garbage trucks and optimizes routes
+
+9. Difficulty in monitoring student grades	Online grade tracking portal	Parents and students access grades anytime
+
+10. Barangay disaster response delays	Mobile disaster alert and response app	Sends real-time evacuation alerts and tracks safe zones
+
+
